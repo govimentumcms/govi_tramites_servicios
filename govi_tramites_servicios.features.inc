@@ -5,6 +5,15 @@
  */
 
 /**
+ * Implements hook_ctools_plugin_api().
+ */
+function govi_tramites_servicios_ctools_plugin_api($module = NULL, $api = NULL) {
+  if ($module == "context" && $api == "context") {
+    return array("version" => "3");
+  }
+}
+
+/**
  * Implements hook_views_api().
  */
 function govi_tramites_servicios_views_api($module = NULL, $api = NULL) {
