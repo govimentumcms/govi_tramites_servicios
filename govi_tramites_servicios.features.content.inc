@@ -30,7 +30,7 @@ function govi_tramites_servicios_content_defaults() {
           'filemime' => 'application/pdf',
           'filesize' => 18810,
           'status' => 1,
-          'uuid' => 'b0e2f886-c7a4-4cdf-a3f1-00bd913f63a6',
+          'uuid' => 'd8303910-cd6a-4c3d-b91f-982d8152512a',
           'rdf_mapping' => array(),
           'display' => 1,
           'description' => 'Tramites y Servicios Ejemplo 1',
@@ -41,7 +41,7 @@ function govi_tramites_servicios_content_defaults() {
     'field_clasificacion_tram_serv' => array(
       'und' => array(
         0 => array(
-          'tid' => 59,
+          'tid' => 60,
         ),
       ),
     ),
@@ -78,7 +78,7 @@ function govi_tramites_servicios_content_defaults() {
     'field_clasificacion_tram_serv' => array(
       'und' => array(
         0 => array(
-          'tid' => 59,
+          'tid' => 60,
         ),
       ),
     ),
@@ -129,7 +129,7 @@ function govi_tramites_servicios_content_defaults() {
           'filemime' => 'application/pdf',
           'filesize' => 18810,
           'status' => 1,
-          'uuid' => '4902702b-3387-4d5c-9bd2-0da8d4425019',
+          'uuid' => 'dddaf3fb-867e-41d7-b8f5-cff4bcf1ff59',
           'rdf_mapping' => array(),
           'display' => 1,
           'description' => 'Tramites y Servicios Ejemplo 3',
@@ -140,7 +140,7 @@ function govi_tramites_servicios_content_defaults() {
     'field_clasificacion_tram_serv' => array(
       'und' => array(
         0 => array(
-          'tid' => 60,
+          'tid' => 61,
         ),
       ),
     ),
@@ -177,7 +177,7 @@ function govi_tramites_servicios_content_defaults() {
     'field_clasificacion_tram_serv' => array(
       'und' => array(
         0 => array(
-          'tid' => 60,
+          'tid' => 61,
         ),
       ),
     ),
